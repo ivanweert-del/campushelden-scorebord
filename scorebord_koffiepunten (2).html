@@ -56,7 +56,7 @@
 </head>
 <body>
     <h1>Koffiepunten & Campushelden</h1>
-    <img src="kopje-koffie.png" alt="Kopje koffie" class="coffee">
+    <img src="downloaden.png" alt="Kopje koffie" class="coffee">
     <div class="scoreboard">
         <div class="student">Emma Jansen: 120 punten</div>
         <div class="student">Ravi de Groot: 95 punten</div>
