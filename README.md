@@ -48,7 +48,7 @@
 </head>
 <body>
     <h1>Koffiepunten & Campushelden</h1>
-    <img src='dowloaden.png' alt='Kopje koffie' class='coffee'>
+    <img src='downloaden.png' alt='Kopje koffie' class='coffee'>
     <div class='scoreboard'>
         <h2>Scorebord</h2>
         <div class='student'>Emma Jansen: 120 punten</div>
